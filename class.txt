@@ -11,3 +11,8 @@ Fuchsia
 Purple
 Brown
 Red
+Orange
+Black
+I like coding
+This course sucks
+
